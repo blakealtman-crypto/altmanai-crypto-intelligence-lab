@@ -68,4 +68,13 @@ export const riskPrinciples: RiskPrinciple[] = [
       "Concentration can be a deliberate, informed choice — the risk is not knowing you've made it.",
     ],
   },
+  {
+    name: "Exchange Risk",
+    description:
+      "Centralized exchanges can fail, freeze withdrawals, be hacked, or become insolvent — exposing users who hold balances there rather than in self-custody.",
+    considerations: [
+      "An exchange balance is a claim on the exchange, not direct ownership of the underlying asset.",
+      "Exchange history includes real, large-scale failures — this is a well-documented risk, not a hypothetical one.",
+    ],
+  },
 ];
