@@ -1,6 +1,6 @@
 # Risk Disclosure Framework
 
-This project organizes digital asset risk into seven categories. This is an educational framework for thinking about risk — not an exhaustive list, and not a substitute for professional financial or legal advice.
+This project organizes digital asset risk into eight categories. This is an educational framework for thinking about risk — not an exhaustive list, and not a substitute for professional financial or legal advice.
 
 ## 1. Volatility Risk
 Crypto asset prices can move sharply in short periods. Historical volatility does not predict future volatility.
@@ -22,6 +22,9 @@ Fear of missing out and panic during drawdowns are common drivers of poor decisi
 
 ## 7. Concentration Risk
 Large exposure to a single asset, protocol, or platform magnifies the impact of anything going wrong with that one thing. This can be a deliberate, informed choice — the risk is not knowing you've made it.
+
+## 8. Exchange Risk
+Centralized exchanges can fail, freeze withdrawals, be hacked, or become insolvent. A balance held on an exchange is a claim on that exchange, not direct ownership of the underlying asset — exchange failures are a well-documented historical risk, not a hypothetical one.
 
 ---
 
