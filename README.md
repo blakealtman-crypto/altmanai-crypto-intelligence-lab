@@ -3,7 +3,7 @@
 **Human-first crypto intelligence, powered by AltmanAI.**
 
 [![Status](https://img.shields.io/badge/status-alpha-blue)]()
-[![License](https://img.shields.io/badge/license-Apache--2.0-green)]()
+[![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Not Financial Advice](https://img.shields.io/badge/not-financial--advice-critical)]()
 
 ---
@@ -69,7 +69,8 @@ altmanai-crypto-intelligence-lab/
 │   ├── RISK_DISCLOSURE.md
 │   ├── AI_USAGE_POLICY.md
 │   ├── ROADMAP.md
-│   └── BRAND_POSITIONING.md
+│   ├── BRAND_POSITIONING.md
+│   └── FOUNDER_LEDGER.md
 ├── src/app/            # Next.js App Router pages
 ├── components/         # Reusable React/TypeScript components
 ├── data/                # Structured content: glossary, research topics, risk principles, roadmap
@@ -88,7 +89,7 @@ Contributions are welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md). All cont
 
 ## License
 
-Apache License 2.0 — see [`LICENSE`](LICENSE).
+MIT License — see [`LICENSE`](LICENSE).
 
 ## Ecosystem &amp; Contact
 
