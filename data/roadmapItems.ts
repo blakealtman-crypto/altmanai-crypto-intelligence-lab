@@ -14,14 +14,14 @@ export const roadmapItems: RoadmapItem[] = [
       "Project vision, mission, and compliance-first documentation",
       "Starter dashboard architecture (Next.js + TypeScript + Tailwind)",
       "Educational crypto glossary structure",
-      "Risk-awareness framework (7 core risk categories)",
-      "Founder-led governance and roadmap",
+      "Risk-awareness framework (8 core risk categories)",
+      "Founder-led governance, roadmap, and Founder Ledger",
     ],
   },
   {
     version: "v0.2.0",
     status: "Planned",
-    title: "Educational Content Expansion",
+    title: "Education Engine",
     items: [
       "Expanded glossary and blockchain research library",
       "Deeper research cards per major ecosystem (BTC, ETH, L2s, DeFi)",
@@ -31,7 +31,17 @@ export const roadmapItems: RoadmapItem[] = [
   {
     version: "v0.3.0",
     status: "Planned",
-    title: "AI Research Assistant Integration",
+    title: "Risk Awareness Dashboard",
+    items: [
+      "Interactive risk-awareness scoring concept (educational, not a financial score)",
+      "Expanded risk considerations per asset category",
+      "Portfolio education module expansion",
+    ],
+  },
+  {
+    version: "v0.4.0",
+    status: "Planned",
+    title: "AI Research Assistant Prototype",
     items: [
       "AltmanAI-powered plain-English topic summaries",
       "Human-reviewed content pipeline (no unreviewed AI publishing)",
@@ -41,7 +51,7 @@ export const roadmapItems: RoadmapItem[] = [
   {
     version: "v1.0.0",
     status: "Planned",
-    title: "Public Dashboard Launch",
+    title: "Public Research Release",
     items: [
       "Public-facing educational dashboard at a dedicated domain",
       "Expanded risk-awareness tooling",
